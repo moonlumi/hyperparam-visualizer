@@ -1,2 +1,2 @@
 # hyperparam-visualizer
-Dashboard to visualize the hyper-tuning of classification and regression models.
+Dashboard to visualize the hyper-parameter tuning of classification and regression models.
